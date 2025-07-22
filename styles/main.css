@@ -3,6 +3,7 @@ main {
     flex-wrap: wrap;
     gap: 24px;
     padding-block: 24px;
+    margin: auto;
 }
 
 main img {
